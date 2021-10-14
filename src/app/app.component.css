@@ -1,0 +1,18 @@
+h1
+{
+    color: darkblue;
+    text-align: center;
+    background-color:fuchsia;
+}
+body{
+    background-image: url("../assets/imagess/girl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+.right
+{margin-left: 700px;
+}
+.right li{
+    float: right;
+}
